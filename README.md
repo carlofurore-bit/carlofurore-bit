@@ -1,4 +1,4 @@
-# Carlo David Furore
+# Carlo D. Furore
 
 Mechanical engineering M.S. candidate at Politecnico di Milano. I study structures under load and build tools for manufacturing and experimental measurement.
 
